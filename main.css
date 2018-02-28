@@ -1,0 +1,31 @@
+.celing{
+	background-color: #FAFAD2;
+}
+
+
+.sub-header{
+	background-color: #F5DEB3;
+}
+
+.main_menu{
+	margin-left: 30px;
+}
+
+
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin-bottom: 0px;
+    background-color: #FAF0E6;
+}
+#footer {
+    width: 95%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    margin-top: 10px;
+}
